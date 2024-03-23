@@ -1,0 +1,6 @@
+{
+    "email": "diogo.muniz@i9grupo.com.br",
+    "name": "Diogo i9Grupo",
+    "cpf": "55555555555",
+    "senha":"Postech@123"
+}
